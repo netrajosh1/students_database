@@ -1,4 +1,4 @@
-# CS348 Project (Students Database) - Stage 3 Demo
+# (Students Database) - Stage 3 Demo
 
 Small Go backend (Gorilla Mux) + React frontend.
 
